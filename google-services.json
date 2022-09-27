@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "160183682436",
+    "firebase_url": "https://appcep-a76a7.firebaseio.com",
+    "project_id": "appcep-a76a7",
+    "storage_bucket": "appcep-a76a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160183682436:android:4ae7ea02088bf8ffd809d1",
+        "android_client_info": {
+          "package_name": "appcep.tssistemas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160183682436-otu0dmm1jjvlo0sajmfhgaapqto4j2j6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9QQmpqFsLO1W1otO_WlPhx68oAw4qupA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160183682436-otu0dmm1jjvlo0sajmfhgaapqto4j2j6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
